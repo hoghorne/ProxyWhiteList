@@ -51,6 +51,7 @@
 
 ; 常规列表
 *.amap.com
+*.gaode.com
 *.baidu.com
 *.bilibili.com
 *.chiphell.com
