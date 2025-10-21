@@ -50,6 +50,8 @@
 *.wiley.com
 
 ; 常规列表
+*.126.com
+*.163.com
 *.amap.com
 *.gaode.com
 *.baidu.com
