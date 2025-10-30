@@ -34,10 +34,8 @@
 *.edu.*
 *.engineeringvillage.com
 *.ieee.org
-*.jd.com
 *.jstor.org
 *.lexis.com
-*.manmanbuy.com
 *.msftconnecttest.com
 *.nature.com
 *.oclc.org
@@ -47,7 +45,6 @@
 *.sciencemag.org
 *.springer.com
 *.tandfonline.com
-*.taobao.com
 *.uni-trier.de
 *.webofknowledge.com
 *.wiley.com
@@ -63,6 +60,8 @@
 *.chiphell.com
 *.cloudflare.com
 *.jiayuan-law.com
+*.jd.com
+*.manmanbuy.com
 *.mmstat.com
 *.pkulaw.com
 *.qcc.com
